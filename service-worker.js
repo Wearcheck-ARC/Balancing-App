@@ -1,4 +1,4 @@
-const CACHE_NAME = "wearcheck-balancer-v1";
+const CACHE_NAME = "wearcheck-balancer-v2";
 
 const FILES_TO_CACHE = [
   "Balancing.html",
@@ -22,3 +22,4 @@ self.addEventListener("fetch", event => {
     )
   );
 });
+
