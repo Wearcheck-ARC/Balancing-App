@@ -1,7 +1,7 @@
 {
   "name": "WearCheck In-Situ Balancing",
   "short_name": "WC Balance",
-  "start_url": "Balancing.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#8b1c1c",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
